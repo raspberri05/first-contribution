@@ -9,7 +9,11 @@ Follow this guide to learn how to use git/github and make your first open source
 https://git-scm.com/downloads
 
 ### Configure git
+In terminal (MacOS) or Powershell (Windows), run the following commands, replacing ```first_name``` with your first name, ```last_name``` with your last name, and ```email_address``` with the email address you use for Github.
 
+```git config --global user.name "first_name last_name"```
+
+```git config --global user.email email_address```
 
 ### Star and fork this repository
 Towards the top right of the screen of the repo, click, "Star" (to help us reach more open source contributors), then click "Fork". Then another page will show up, where you should click "Create Fork". You will now be redirected to your fork of the code.
