@@ -1,1 +1,3 @@
- - [rama-27](https://github.com/rama-27)
+- [rama-27](https://github.com/rama-27)
+ - [raspberri05](https://github.com/raspberri05)
+ - [Nicojsuarez2](https://github.com/Nicojsuarez2)
