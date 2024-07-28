@@ -4,3 +4,4 @@
  - [AarambhaAnta](https://github.com/AarambaAnta)
  - [sanskaarz](https://github.com/sanskaarz)
  - [amichelwm](https://github.com/amichelwm)
+ - [xHector1337](https://github.com/xHector1337)
