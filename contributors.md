@@ -4,3 +4,4 @@
  - [AarambhaAnta](https://github.com/AarambaAnta)
  - [sanskaarz](https://github.com/sanskaarz)
  - [amichelwm](https://github.com/amichelwm)
+ - [ErikSRoth](https://github.com/ErikSRoth)
