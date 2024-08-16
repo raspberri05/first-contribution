@@ -5,3 +5,4 @@
  - [sanskaarz](https://github.com/sanskaarz)
  - [amichelwm](https://github.com/amichelwm)
  - [ErikSRoth](https://github.com/ErikSRoth)
+ - [xHector1337](https://github.com/xHector1337)
